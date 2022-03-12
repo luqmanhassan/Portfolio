@@ -35,7 +35,6 @@ export default function Projects() {
           display: 'flex',
           flexFlow: 'column',
           justifyContent: 'space-around',
-          backgroundColor: 'secondary.main',
           flexFlow: {
             xs: 'column',
             sm: 'column',
